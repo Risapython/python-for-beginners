@@ -1,1 +1,22 @@
+print("Takahiro")
+print("Okada")
+print(60)
 
+print("Eiji")
+print("Yamada")
+print(47)
+
+print("Mizuki")
+print("Shimizu")
+print(38)
+
+Output:
+Takahiro
+Okada
+60
+Eiji
+Yamada
+47
+Mizuki
+Shimizu
+38
