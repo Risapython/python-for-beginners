@@ -1,1 +1,13 @@
+birth_year = input('Birth year: ')
+print(type(birth_year))
+age = 2021 - int(birth_year)
+print(type(age))
+print(age)
 
+Output:
+Birth year: 1999
+<class 'str'>
+<class 'int'>
+22
+
+Process finished with exit code 0
