@@ -11,3 +11,19 @@ Birth year: 1999
 22
 
 Process finished with exit code 0
+
+name = input("What is your name?")
+birth_year = input("Birth year")
+age = 2021 - int(birth_year)
+print(age)
+location = input("Where do you live?")
+
+print("I'm" + name + ", and I'm" + str(age) + ", and I live in" + location + ".")
+
+Output:
+What is your name? Moe
+Birth year 1999
+22
+Where do you live? Ashiya
+I'm Moe, and I'm22, and I live in Ashiya.
+
