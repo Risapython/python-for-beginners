@@ -1,6 +1,9 @@
-name = input(“ What is your name?”)
-favorite_colour = input(“What is your favorite colour?”)
-print (name + “likes” + favourite_colour)
+name = input("What is your name?")
+age = input("How old are you?")
+favourite_colour = input("What is your favourite colour?")
 
-Takahiro, 
+print("I'm" + name+ "," + " and my age is" + age + ", and  my favourite colour is" + favourite_colour + ".")
+
+
+I'm Moe, and my age is 22, and my favourite colour is pink.
 
