@@ -1,0 +1,9 @@
+a = 10
+if a < 5:
+    print("No")
+elif a == 7:
+    print( "Yes, its is equal to 10 ")
+elif a > 18:
+    print("No, its not greater than 18")
+else:
+    print("No, Its not")
