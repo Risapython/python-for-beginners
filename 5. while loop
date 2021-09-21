@@ -15,3 +15,16 @@ while i <= 5:
   print("Risa")
   i = i + 1
   print("Risa")
+
+
+number =1
+while number < 5 :
+    # Find the mod of 2
+    if number%2 == 0:
+        print("The number "+str(number)+" is even")
+    else:
+        print("The number "+str(number)+" is odd")
+
+    number = number+1
+
+print ("stop")
